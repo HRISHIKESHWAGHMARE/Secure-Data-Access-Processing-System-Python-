@@ -152,5 +152,3 @@ Hello Secure World
 
 **HrishiKesh Waghmare**
 Aspiring **Data Analyst | Python Developer**
-
-Just tell me 👍
